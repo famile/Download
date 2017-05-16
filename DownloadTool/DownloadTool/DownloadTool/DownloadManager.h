@@ -43,13 +43,13 @@
  */
 - (void)cancleDownload:(NSString *)urlString;
 /**
- *  取消所有下载任务
- */
-- (void)cancleAllDownload;
-/**
  *  删除下载完的任务
  */
 - (BOOL)removeHasDownloadTask:(NSString *)urlString;
+/**
+ *  取消所有下载任务
+ */
+- (void)cancleAllDownload;
 
 /**
  *  有的文件已经下载完毕或者下载了一部分，需要知道进度信息，调用此方法
