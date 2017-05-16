@@ -11,4 +11,4 @@
 #### DownloadObject（下载对象类）
 #### TaskProgressInfo（下载的进度信息）
 
-![image](http://upload-images.jianshu.io/upload_images/1634387-b0dfc182e2ed937b.gif?imageMogr2/auto-orient/strip)
+![](http://github.com/famile/readme_pic/images/5月-16-2017 10-12-51.gif)
