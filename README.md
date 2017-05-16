@@ -11,4 +11,4 @@
 #### DownloadObject（下载对象类）
 #### TaskProgressInfo（下载的进度信息）
 
-![](http://github.com/famile/readme_pic/images/download.gif)
+![](https://raw.githubusercontent.com/famile/readme_pic/master/images/download.gif)
